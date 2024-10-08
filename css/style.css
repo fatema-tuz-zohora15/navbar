@@ -1,0 +1,29 @@
+
+
+.banner-section{
+    position: relative;
+
+}
+.bg-costom{
+background-color: black;
+}
+
+.banner-content{
+    position: absolute; 
+    color: white;
+    top:10rem;
+    left:30px;
+}
+.bg{
+    background-color: rgb(35, 35, 40);
+}
+.form-control{
+    border: 2px black;
+
+}
+from{
+    font: 3em sans-serif;
+    font-weight: bolder;
+    border: 3px black;
+}
+
